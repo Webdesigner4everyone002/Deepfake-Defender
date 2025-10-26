@@ -18,7 +18,7 @@ This project allows users to upload a short video clip and get a prediction on w
 | **Backend API** | FastAPI |
 | **Frontend UI** | Streamlit |
 | **Model Framework** | TensorFlow / Keras |
-| **Helper Libraries** | OpenCV, NumPy, Requests |
+| **Helper Libraries** | OpenCV, NumPy, Requests,MLFlow |
 | **Language** | Python 3.8+ |
 
 ---
